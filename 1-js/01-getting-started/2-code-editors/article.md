@@ -1,8 +1,9 @@
-# Code editors
+# ویراشگر های کد(متن)
 
-A code editor is the place where programmers spend most of their time.
+یک ویرایشگر متن محلی توسعه کد توسط برنامه نویس هاست 
 
-There are two archetypes: IDE and lightweight editors. Many people feel comfortable choosing one tool of each type.
+ویرایشگر های متن دو دسته هستند : ide ها یا ویرایشگر های متن بدون فرمت
+
 
 ## IDE
 
